@@ -1,2 +1,21 @@
-# Super mario college adventure
-  Super Mario Collage Adventure is an educational game that blends Super Mario's platforming excitement with a unique college tour twist. Players explore their college campus, collecting digital fragments of campus landmarks and earning AICTE Points to reinforce learning. The game introduces a countdown timer, "No. of Days Left in College," to add urgency to the experience. With engaging gameplay, educational content, and an immersive storyline, it offers an entertaining way for college students to connect with their institution's history and culture before graduation, while counting down the days left to do so.
+# Super Mario Bros.
+
+Classic Super Mario Bros. game implemented with Java for CS319-Object-Oriented Software Engineering course.
+
+## About game
+
+You can visit [wikipedia page](https://en.wikipedia.org/wiki/Super_Mario_Bros.) or [Super Mario wiki page](https://www.mariowiki.com/Super_Mario_Bros.) for detailed information about the game.
+
+## Built With
+* [Java](https://www.java.com/)
+
+## In-game Screens
+
+### Start Screen
+![start screen](https://raw.githubusercontent.com/ahmetcandiroglu/1G.Super-Mario-Bros/master/docs/Screenshots/Start%20screen.png)
+
+### Inside Game
+![in game screen](https://raw.githubusercontent.com/ahmetcandiroglu/1G.Super-Mario-Bros/master/docs/Screenshots/In%20game%20screen.png)
+
+### Pause Screen
+![pause screen](https://raw.githubusercontent.com/ahmetcandiroglu/1G.Super-Mario-Bros/master/docs/Screenshots/Pause%20screen.png)
